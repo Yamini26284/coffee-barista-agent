@@ -24,6 +24,7 @@ Customers chat with a barista agent that recommends drinks and pastries based on
 
 ## Project Structure
 
+```
 coffee-barista-agent/
 ├── agent.py          # ADK agent definition + get_menu() tool
 ├── app.py            # Streamlit chat UI
@@ -31,6 +32,7 @@ coffee-barista-agent/
 ├── requirements.txt   # Python dependencies
 ├── LICENSE             # Apache 2.0
 └── README.md
+```
 
 ## Running Locally
 
