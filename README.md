@@ -4,7 +4,7 @@ An AI-powered virtual barista built with Google's Agent Development Kit (ADK) an
 
 ## 🔗 Live Demo
 
-**Deployed Agent:** _[Cloud Run service — see note below]_
+**Deployed Agent:** 
 
 > ⚠️ Note: This was deployed using Google Cloud trial credits, which have since expired, so the live link may no longer be active. See the screenshots below for a full demonstration of the agent in action, or follow the setup steps to deploy it yourself.
 
